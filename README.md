@@ -1,3 +1,3 @@
 # Micmat
 **Intune**
-Scripts for all kind of things intune related
+Mostly all kind of apps that can be installed via Intune
