@@ -19,5 +19,5 @@ Ajust MSI file name to your own
 Insert your own ConfigID
 Insert your own AssignID
 
-Some more info on things you have to configure on the teamviewer portal can be find in the word file "Teamviewer x Intune Word Without sensitive info.docx"
+Some more info on things you have to configure on the teamviewer portal can be found in the word file "Teamviewer x Intune Word Without sensitive info.docx"
 It is in Dutch tho, happy translating!
